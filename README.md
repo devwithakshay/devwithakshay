@@ -102,7 +102,7 @@ These are production or client work, so the source is private.
 
 | Level | Institution | Year |
 | --- | --- | --- |
-| (add degree) | (add institution) | (add year) |
+| MCA (Master of Computer Applications) | Dr. A.P.J. Abdul Kalam Technical University (AKTU) | 2021 |
 
 ## 📊 GitHub stats
 
